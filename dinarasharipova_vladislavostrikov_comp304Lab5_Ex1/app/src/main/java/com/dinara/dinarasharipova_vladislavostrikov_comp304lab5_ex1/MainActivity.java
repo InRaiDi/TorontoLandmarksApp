@@ -9,7 +9,7 @@ import android.os.Bundle;
 //Types/categories:
 
 // Old buildings: Casa Loma; Gooderham Building; Osgoode Hall.
-// Museums:
+// Museums: Royal Ontario Museum, Art Gallery of Ontario; Gardiner Museum;
 // Stadiums:
 // Attractions:
 

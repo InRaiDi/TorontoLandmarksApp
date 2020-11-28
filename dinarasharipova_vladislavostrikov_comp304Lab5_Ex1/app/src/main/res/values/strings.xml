@@ -14,4 +14,10 @@
     <string name="title_activity_gooderham_building_sat">Map</string>
     <string name="title_activity_osgoode_hall_regular">Map</string>
     <string name="title_activity_osgoode_hall_sat">Map</string>
+    <string name="title_activity_royal_ontario_museum_regular">Map</string>
+    <string name="title_activity_royal_ontario_museum_sat">Map</string>
+    <string name="title_activity_art_galleryof_ontario_regular">Map</string>
+    <string name="title_activity_art_galleryof_ontario_sat">Map</string>
+    <string name="title_activity_gardiner_museum_regular">Map</string>
+    <string name="title_activity_gardiner_museum_sat">Map</string>
 </resources>

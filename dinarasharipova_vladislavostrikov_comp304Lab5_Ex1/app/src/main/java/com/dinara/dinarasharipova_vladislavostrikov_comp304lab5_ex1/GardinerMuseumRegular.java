@@ -11,14 +11,14 @@ import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 
-public class MapsActivity extends FragmentActivity implements OnMapReadyCallback {
+public class GardinerMuseumRegular extends FragmentActivity implements OnMapReadyCallback {
 
     private GoogleMap mMap;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_maps);
+        setContentView(R.layout.activity_gardiner_museum_regular);
         // Obtain the SupportMapFragment and get notified when the map is ready to be used.
         SupportMapFragment mapFragment = (SupportMapFragment) getSupportFragmentManager()
                 .findFragmentById(R.id.map);
@@ -28,9 +28,9 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     @Override
     public void onMapReady(GoogleMap googleMap) {
         mMap = googleMap;
-        LatLng locationPoint= new LatLng(43.66882724076501, -79.39460543862579);
-        mMap.addMarker(new MarkerOptions().position(locationPoint).title("Royal Ontario Museum"));
+        LatLng locationPoint= new LatLng(43.66883648186755, -79.38990263389026);
+        mMap.addMarker(new MarkerOptions().position(locationPoint).title("Gardiner Museum"));
         mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(locationPoint,15));
-        mMap.setMapType(mMap.MAP_TYPE_SATELLITE);
+        mMap.setMapType(mMap.MAP_TYPE_NORMAL);
     }
 }

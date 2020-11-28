@@ -30,8 +30,26 @@
             android:value="@string/google_maps_key" />
 
         <activity
+            android:name=".GardinerMuseumSat"
+            android:label="@string/title_activity_gardiner_museum_sat"></activity>
+        <activity
+            android:name=".GardinerMuseumRegular"
+            android:label="@string/title_activity_gardiner_museum_regular" />
+        <activity
+            android:name=".ArtGalleryofOntarioSat"
+            android:label="@string/title_activity_art_galleryof_ontario_sat" />
+        <activity
+            android:name=".ArtGalleryofOntarioRegular"
+            android:label="@string/title_activity_art_galleryof_ontario_regular" />
+        <activity
+            android:name=".RoyalOntarioMuseumSat"
+            android:label="@string/title_activity_royal_ontario_museum_sat" />
+        <activity
+            android:name=".RoyalOntarioMuseumRegular"
+            android:label="@string/title_activity_royal_ontario_museum_regular" />
+        <activity
             android:name=".OsgoodeHallSat"
-            android:label="@string/title_activity_osgoode_hall_sat"></activity>
+            android:label="@string/title_activity_osgoode_hall_sat" />
         <activity
             android:name=".OsgoodeHallRegular"
             android:label="@string/title_activity_osgoode_hall_regular" />
