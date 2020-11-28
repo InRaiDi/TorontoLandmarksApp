@@ -1,4 +1,17 @@
 <resources>
     <string name="app_name">dinarasharipova_vladislavostrikov_comp304Lab5_Ex1</string>
     <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="title_activity_casa_loma">Map</string>
+    <string name="title_activity_casa_loma_regular">Map</string>
+    <string name="title_activity_casa_loma_sat">Map</string>
+    <string name="title_activity_gooderham_building_regular">Map</string>
+    <string name="title_activity_gooderham_building_sat">Map</string>
+    <string name="title_activity_osgoode_hall_regular">Map</string>
+    <string name="title_activity_osgoode_hall_sat">Map</string>
 </resources>

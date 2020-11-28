@@ -11,14 +11,14 @@ import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 
-public class MapsActivity extends FragmentActivity implements OnMapReadyCallback {
+public class CasaLomaSat extends FragmentActivity implements OnMapReadyCallback {
 
     private GoogleMap mMap;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_maps);
+        setContentView(R.layout.activity_casa_loma_sat);
         // Obtain the SupportMapFragment and get notified when the map is ready to be used.
         SupportMapFragment mapFragment = (SupportMapFragment) getSupportFragmentManager()
                 .findFragmentById(R.id.map);
@@ -28,9 +28,9 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     @Override
     public void onMapReady(GoogleMap googleMap) {
         mMap = googleMap;
-        LatLng OH = new LatLng(43.65216023721628, -79.38616122405176);
-        mMap.addMarker(new MarkerOptions().position(OH).title("Osgoode Hall"));
-        mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(OH,15));
-        mMap.setMapType(mMap.MAP_TYPE_NORMAL);
+        LatLng CasaLoma = new LatLng(43.67893718789539, -79.4092722386258);
+        mMap.addMarker(new MarkerOptions().position(CasaLoma).title("Casa Loma"));
+        mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(CasaLoma,15));
+        mMap.setMapType(mMap.MAP_TYPE_SATELLITE);
     }
 }

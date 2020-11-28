@@ -11,14 +11,14 @@ import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 
-public class MapsActivity extends FragmentActivity implements OnMapReadyCallback {
+public class GooderhamBuildingRegular extends FragmentActivity implements OnMapReadyCallback {
 
     private GoogleMap mMap;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_maps);
+        setContentView(R.layout.activity_gooderham_building_regular);
         // Obtain the SupportMapFragment and get notified when the map is ready to be used.
         SupportMapFragment mapFragment = (SupportMapFragment) getSupportFragmentManager()
                 .findFragmentById(R.id.map);
@@ -28,9 +28,9 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     @Override
     public void onMapReady(GoogleMap googleMap) {
         mMap = googleMap;
-        LatLng OH = new LatLng(43.65216023721628, -79.38616122405176);
-        mMap.addMarker(new MarkerOptions().position(OH).title("Osgoode Hall"));
-        mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(OH,15));
+        LatLng GB = new LatLng(43.64880419476288, -79.37279623228869);
+        mMap.addMarker(new MarkerOptions().position(GB).title("Gooderham Building"));
+        mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(GB,15));
         mMap.setMapType(mMap.MAP_TYPE_NORMAL);
     }
 }

@@ -30,6 +30,28 @@
             android:value="@string/google_maps_key" />
 
         <activity
+            android:name=".OsgoodeHallSat"
+            android:label="@string/title_activity_osgoode_hall_sat"></activity>
+        <activity
+            android:name=".OsgoodeHallRegular"
+            android:label="@string/title_activity_osgoode_hall_regular" />
+        <activity
+            android:name=".GooderhamBuildingSat"
+            android:label="@string/title_activity_gooderham_building_sat" />
+        <activity
+            android:name=".GooderhamBuildingRegular"
+            android:label="@string/title_activity_gooderham_building_regular" />
+        <activity
+            android:name=".CasaLomaSat"
+            android:label="@string/title_activity_casa_loma_sat" />
+        <activity
+            android:name=".CasaLomaRegular"
+            android:label="@string/title_activity_casa_loma_regular" />
+        <activity
+            android:name=".CasaLomaActivity"
+            android:label="@string/title_activity_casa_loma" />
+        <activity android:name=".MainActivity" />
+        <activity
             android:name=".MapsActivity"
             android:label="@string/title_activity_maps">
             <intent-filter>
