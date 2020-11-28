@@ -4,14 +4,14 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-// FOR VLAD: here goes the list of TYPES/categories of landmarks
+// FOR VLAD: here goes the list of categories of landmarks
 
-//Types/categories:
+//4 categories:
 
 // Old buildings: Casa Loma; Gooderham Building; Osgoode Hall.
 // Museums: Royal Ontario Museum, Art Gallery of Ontario; Gardiner Museum.
 // Stadiums: Rogers Centre; Scotiabank Arena; BMO Field.
-// Attractions:
+// Attractions: CN Tower; Ripley's Aquarium of Canada; Toronto Zoo.
 
 
 public class MainActivity extends AppCompatActivity {

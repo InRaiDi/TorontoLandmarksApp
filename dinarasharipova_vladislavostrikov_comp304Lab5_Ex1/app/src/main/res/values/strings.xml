@@ -26,4 +26,10 @@
     <string name="title_activity_scotiabank_arena_sat">Map</string>
     <string name="title_activity_b_m_o_field_regular">Map</string>
     <string name="title_activity_b_m_o_field_sat">Map</string>
+    <string name="title_activity_c_n_tower_regular">Map</string>
+    <string name="title_activity_c_n_tower_sat">Map</string>
+    <string name="title_activity_ripleys_aquarium_regular">Map</string>
+    <string name="title_activity_ripleys_aquarium_sat">Map</string>
+    <string name="title_activity_toronto_zoo_regular">Map</string>
+    <string name="title_activity_toronto_zoo_sat">Map</string>
 </resources>
