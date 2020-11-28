@@ -20,4 +20,10 @@
     <string name="title_activity_art_galleryof_ontario_sat">Map</string>
     <string name="title_activity_gardiner_museum_regular">Map</string>
     <string name="title_activity_gardiner_museum_sat">Map</string>
+    <string name="title_activity_rogers_centre_regular">Map</string>
+    <string name="title_activity_rogers_centre_sat">Map</string>
+    <string name="title_activity_scotiabank_arena_regular">Map</string>
+    <string name="title_activity_scotiabank_arena_sat">Map</string>
+    <string name="title_activity_b_m_o_field_regular">Map</string>
+    <string name="title_activity_b_m_o_field_sat">Map</string>
 </resources>

@@ -9,8 +9,8 @@ import android.os.Bundle;
 //Types/categories:
 
 // Old buildings: Casa Loma; Gooderham Building; Osgoode Hall.
-// Museums: Royal Ontario Museum, Art Gallery of Ontario; Gardiner Museum;
-// Stadiums:
+// Museums: Royal Ontario Museum, Art Gallery of Ontario; Gardiner Museum.
+// Stadiums: Rogers Centre; Scotiabank Arena; BMO Field.
 // Attractions:
 
 

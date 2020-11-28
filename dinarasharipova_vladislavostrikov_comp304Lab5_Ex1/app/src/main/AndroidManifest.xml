@@ -30,8 +30,26 @@
             android:value="@string/google_maps_key" />
 
         <activity
+            android:name=".BMOFieldSat"
+            android:label="@string/title_activity_b_m_o_field_sat"></activity>
+        <activity
+            android:name=".BMOFieldRegular"
+            android:label="@string/title_activity_b_m_o_field_regular" />
+        <activity
+            android:name=".ScotiabankArenaSat"
+            android:label="@string/title_activity_scotiabank_arena_sat" />
+        <activity
+            android:name=".ScotiabankArenaRegular"
+            android:label="@string/title_activity_scotiabank_arena_regular" />
+        <activity
+            android:name=".RogersCentreSat"
+            android:label="@string/title_activity_rogers_centre_sat" />
+        <activity
+            android:name=".RogersCentreRegular"
+            android:label="@string/title_activity_rogers_centre_regular" />
+        <activity
             android:name=".GardinerMuseumSat"
-            android:label="@string/title_activity_gardiner_museum_sat"></activity>
+            android:label="@string/title_activity_gardiner_museum_sat" />
         <activity
             android:name=".GardinerMuseumRegular"
             android:label="@string/title_activity_gardiner_museum_regular" />
