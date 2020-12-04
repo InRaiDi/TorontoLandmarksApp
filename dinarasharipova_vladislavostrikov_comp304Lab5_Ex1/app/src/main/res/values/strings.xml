@@ -46,4 +46,18 @@
     <string name="loc5_address">317 Dundas St W</string>
     <string name="loc6">Gardiner Museum</string>
     <string name="loc6_address">111 Queens Park</string>
+
+    <string name="loc7">Rogers Centre</string>
+    <string name="loc7_address">1 Blue Jays Way</string>
+    <string name="loc8">Scotiabank Arena</string>
+    <string name="loc8_address"> 40 Bay St</string>
+    <string name="loc9">BMO Field</string>
+    <string name="loc9_address">170 Princes Blvd</string>
+
+    <string name="loc10">CN Tower</string>
+    <string name="loc10_address">290 Bremner Blvd</string>
+    <string name="loc11">Ripleys Aquarium of Canada</string>
+    <string name="loc11_address">288 Bremner Blvd</string>
+    <string name="loc12">Toronto Zoo</string>
+    <string name="loc12_address">2000 Meadowvale Rd</string>
 </resources>

@@ -9,7 +9,8 @@
 
     <TextView
         android:id="@+id/cat_title"
-        android:layout_width="wrap_content"
+        android:textAlignment="center"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="@dimen/category_title_margin_left"
         android:layout_marginTop="@dimen/category_title_margin_top"
@@ -22,7 +23,8 @@
 
     <TextView
         android:id="@+id/location1"
-        android:layout_width="wrap_content"
+        android:textAlignment="center"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="@dimen/loc_title_margin_left"
         android:layout_marginTop="@dimen/loc_title_margin_top"
@@ -35,7 +37,8 @@
 
     <TextView
         android:id="@+id/desc1"
-        android:layout_width="267dp"
+        android:textAlignment="center"
+        android:layout_width="match_parent"
         android:layout_height="29dp"
         android:textSize="@dimen/loc_dec_text_size"
         android:layout_marginStart="@dimen/loc_dec_margin_left"
@@ -69,7 +72,8 @@
 
     <TextView
         android:id="@+id/location2"
-        android:layout_width="wrap_content"
+        android:textAlignment="center"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="@dimen/loc_title_margin_left"
         android:layout_marginTop="@dimen/loc_title_margin_top"
@@ -82,7 +86,8 @@
 
     <TextView
         android:id="@+id/desc2"
-        android:layout_width="267dp"
+        android:textAlignment="center"
+        android:layout_width="match_parent"
         android:layout_height="29dp"
         android:textSize="@dimen/loc_dec_text_size"
         android:layout_marginStart="@dimen/loc_dec_margin_left"
@@ -116,7 +121,8 @@
 
     <TextView
         android:id="@+id/location3"
-        android:layout_width="wrap_content"
+        android:textAlignment="center"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="@dimen/loc_title_margin_left"
         android:layout_marginTop="@dimen/loc_title_margin_top"
@@ -129,7 +135,8 @@
 
     <TextView
         android:id="@+id/desc3"
-        android:layout_width="267dp"
+        android:textAlignment="center"
+        android:layout_width="match_parent"
         android:layout_height="29dp"
         android:textSize="@dimen/loc_dec_text_size"
         android:layout_marginStart="@dimen/loc_dec_margin_left"

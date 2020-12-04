@@ -14,15 +14,12 @@ import android.widget.Toast;
 import java.util.ArrayList;
 import java.util.List;
 
-// FOR VLAD: here goes the list of categories of landmarks
-
 //4 categories:
 
 // Old buildings: Casa Loma; Gooderham Building; Osgoode Hall.
 // Museums: Royal Ontario Museum, Art Gallery of Ontario; Gardiner Museum.
 // Stadiums: Rogers Centre; Scotiabank Arena; BMO Field.
 // Attractions: CN Tower; Ripley's Aquarium of Canada; Toronto Zoo.
-
 
 public class MainActivity extends AppCompatActivity {
     private EditText txtTaskId, txtTaskName, txtTaskDescription;
