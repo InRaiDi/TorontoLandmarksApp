@@ -1,12 +1,6 @@
 <resources>
     <string name="app_name">dinarasharipova_vladislavostrikov_comp304Lab5_Ex1</string>
-    <string name="title_activity_maps">Map</string>
-    <string name="title_activity_main">MainActivity</string>
-    <!--
-    This string is used for square devices and overridden by hello_world in
-    values-round/strings.xml for round devices.
-    -->
-    <string name="hello_world">Hello Square World!</string>
+    <string name="title_activity_main">Toronto Landmarks</string>
     <string name="title_activity_casa_loma">Map</string>
     <string name="title_activity_casa_loma_regular">Map</string>
     <string name="title_activity_casa_loma_sat">Map</string>
@@ -32,4 +26,24 @@
     <string name="title_activity_ripleys_aquarium_sat">Map</string>
     <string name="title_activity_toronto_zoo_regular">Map</string>
     <string name="title_activity_toronto_zoo_sat">Map</string>
+    <string name="type_item_text">Type</string>
+    <string name="cat1">Old Buildings</string>
+    <string name="cat2">Museums</string>
+    <string name="cat3">Stadiums</string>
+    <string name="cat4">Attractions</string>
+    <string name="Reg_map">Regular Map</string>
+    <string name="Sat_map">Satellite Map</string>
+    <string name="loc1">Casa Loma</string>
+    <string name="loc1_address">1 Austin Terrace</string>
+    <string name="loc2">Gooderham Building</string>
+    <string name="loc2_address">49 Wellington St E</string>
+    <string name="loc3">Osgoode Hall</string>
+    <string name="loc3_address">130 Queen St W</string>
+
+    <string name="loc4">Royal Ontario Museum</string>
+    <string name="loc4_address">100 Queens Park</string>
+    <string name="loc5">Art Gallery of Ontario</string>
+    <string name="loc5_address">317 Dundas St W</string>
+    <string name="loc6">Gardiner Museum</string>
+    <string name="loc6_address">111 Queens Park</string>
 </resources>
