@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Toronto Landmarks</string>
+    <string name="title_activity_main">Toronto Landmarks</string>
+    <string name="title_activity_casa_loma">Map</string>
+    <string name="title_activity_casa_loma_regular">Map</string>
+    <string name="title_activity_casa_loma_sat">Map</string>
+    <string name="title_activity_gooderham_building_regular">Map</string>
+    <string name="title_activity_gooderham_building_sat">Map</string>
+    <string name="title_activity_osgoode_hall_regular">Map</string>
+    <string name="title_activity_osgoode_hall_sat">Map</string>
+    <string name="title_activity_royal_ontario_museum_regular">Map</string>
+    <string name="title_activity_royal_ontario_museum_sat">Map</string>
+    <string name="title_activity_art_galleryof_ontario_regular">Map</string>
+    <string name="title_activity_art_galleryof_ontario_sat">Map</string>
+    <string name="title_activity_gardiner_museum_regular">Map</string>
+    <string name="title_activity_gardiner_museum_sat">Map</string>
+    <string name="title_activity_rogers_centre_regular">Map</string>
+    <string name="title_activity_rogers_centre_sat">Map</string>
+    <string name="title_activity_scotiabank_arena_regular">Map</string>
+    <string name="title_activity_scotiabank_arena_sat">Map</string>
+    <string name="title_activity_b_m_o_field_regular">Map</string>
+    <string name="title_activity_b_m_o_field_sat">Map</string>
+    <string name="title_activity_c_n_tower_regular">Map</string>
+    <string name="title_activity_c_n_tower_sat">Map</string>
+    <string name="title_activity_ripleys_aquarium_regular">Map</string>
+    <string name="title_activity_ripleys_aquarium_sat">Map</string>
+    <string name="title_activity_toronto_zoo_regular">Map</string>
+    <string name="title_activity_toronto_zoo_sat">Map</string>
+    <string name="type_item_text">Type</string>
+    <string name="cat1">Old Buildings</string>
+    <string name="cat2">Museums</string>
+    <string name="cat3">Stadiums</string>
+    <string name="cat4">Attractions</string>
+    <string name="Reg_map">Regular Map</string>
+    <string name="Sat_map">Satellite Map</string>
+    <string name="loc1">Casa Loma</string>
+    <string name="loc1_address">1 Austin Terrace</string>
+    <string name="loc2">Gooderham Building</string>
+    <string name="loc2_address">49 Wellington St E</string>
+    <string name="loc3">Osgoode Hall</string>
+    <string name="loc3_address">130 Queen St W</string>
+
+    <string name="loc4">Royal Ontario Museum</string>
+    <string name="loc4_address">100 Queens Park</string>
+    <string name="loc5">Art Gallery of Ontario</string>
+    <string name="loc5_address">317 Dundas St W</string>
+    <string name="loc6">Gardiner Museum</string>
+    <string name="loc6_address">111 Queens Park</string>
+
+    <string name="loc7">Rogers Centre</string>
+    <string name="loc7_address">1 Blue Jays Way</string>
+    <string name="loc8">Scotiabank Arena</string>
+    <string name="loc8_address"> 40 Bay St</string>
+    <string name="loc9">BMO Field</string>
+    <string name="loc9_address">170 Princes Blvd</string>
+
+    <string name="loc10">CN Tower</string>
+    <string name="loc10_address">290 Bremner Blvd</string>
+    <string name="loc11">Ripleys Aquarium of Canada</string>
+    <string name="loc11_address">288 Bremner Blvd</string>
+    <string name="loc12">Toronto Zoo</string>
+    <string name="loc12_address">2000 Meadowvale Rd</string>
+</resources>
